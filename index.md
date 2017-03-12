@@ -12,4 +12,4 @@ B.A. in Economics, 2007 - 2011
 ## Papers
 
 1. A Martingale-Difference-Divergence-Based Test for Specification (with Liangjun Su), submitted
-2. Random Coefficient Network Formation Models: Estimation and Testing (with Liangjun Su
+2. Random Coefficient Network Formation Models: Estimation and Testing (with Liangjun Su)
