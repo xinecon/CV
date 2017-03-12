@@ -1,10 +1,10 @@
 ## Education
 
-2015 - present **Singapore Management University, Singapore**               Ph.D Candidate in Economics
+2015 - present<br>**Singapore Management University, Singapore**               Ph.D Candidate in Economics
 
-2012 - 2015    **Peking University, China**                                 M.Phil. in Economics
+2012 - 2015 <br>**Peking University, China**                                 M.Phil. in Economics
 
-2007 - 2011    **Central University of Finance and Economics, China**       B.A. in Economics
+2007 - 2011 <br>**Central University of Finance and Economics, China**       B.A. in Economics
 
 ## Working Paper
 
