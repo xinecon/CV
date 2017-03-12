@@ -1,2 +1,1 @@
-# Welcome!
-My Personal Website
+# Welcome to My Personal Website
