@@ -4,7 +4,7 @@
 Ph.D Candidate in Economics, 2015 - present
 
 **Peking University, China**                                
-M.Phil. in Economics, 2012 - 2015 
+M.A. in Economics, 2012 - 2015 
 
 **Central University of Finance and Economics, China**       
 B.A. in Economics, 2007 - 2011
